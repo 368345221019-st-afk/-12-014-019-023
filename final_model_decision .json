@@ -1,0 +1,6 @@
+{
+  "final_model": "SVM (w7)",
+  "reason": "แม่นใกล้เคียง deep แต่เร็วและอธิบายได้ เหมาะทำแอป",
+  "deep_test_acc": 0.9316,
+  "dt_test_acc": 0.9316
+}
